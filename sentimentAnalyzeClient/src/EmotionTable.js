@@ -20,7 +20,7 @@ class EmotionTable extends React.Component {
                     <td>{mapentry[1]}</td>
                     </tr>
                 )
-                });
+                })
             }
             </tbody>
           </table>
